@@ -25,6 +25,7 @@ namespace git_T1
         private void button2_Click(object sender, EventArgs e)
         {
             Console.WriteLine("bye");
+            Console.WriteLine("good, good.");
         }
     }
 }
